@@ -62,24 +62,30 @@ Shopping list (Their use will be apparent later):
 ### Upon waking up
 - [ ] Ask for leave
 - [ ] Set out of office
+
 In case of emergency, people can to contact someone else to handle
 it. Sometime this also spares you from fighting the fire when you
 are back to work.
 - [ ] Turn off work email/IM notifications
+
 Don't create unnecessary stress. If you can't act on it, what's the
 use of bad news. The top priority now is to recover.
 - [ ] Eat healthy breakfast
+
 You would want a healthy mix of fiber, protein, good fat, and good carb
 . If no one can make your healthy breakfast:
  - [ ] Canned bake bean
  - [ ] Canned sardine (Keep at home)
+ 
 You probably lost part of your sense of smell and taste. Why not use
 this opportunity to eat something healthy but yucky?
 - [ ] Supplements -- Vitamin C and Immune boost stuff
+
 Get it over with so you don't have to remember. Historically I only
 remember to take them 50% of the time.
 - [ ] Gargle with salt water
 - [ ] Change bed sheet and pillow cover
+
 Make lying on the bed enticing. Ask nicely if your better half can do
 it if possible. Also this is good signal to self that today is about
 rest.
@@ -106,6 +112,7 @@ rest.
 2. Bring to boil
 3. Turn heat to min and simmer
 - [ ] If I am addicted to caffeine, consume coffee/tea now
+
 To avoid withdraw and allow the body to process them before I go to
 bed at night. People to recommend against caffeine because they cause
 dehydration. Drink more water to mitigate.
