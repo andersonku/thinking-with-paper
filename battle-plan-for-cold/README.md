@@ -3,17 +3,17 @@
 Ever wonder why the Germans kick asses in the 19th Century? One factor
 could be the General Staff [https://en.wikipedia.org/wiki/German_General_Staff]
 -- an agency that does nothing but creating battle plans at peace
-time. When opportunity arises, they can just dust of the plan and do
-it before anyone else can react. It worked so well that most country
+time. When opportunity arises, they can just dust of the plan and act
+before anyone else can react. It worked so well that most country
 copied and follow suit.
 
 The average person gets 200 colds in his or her lifetime. When you are
 hit with headache, blocked nose, and constant cough, deciding how to
 take care of your body can be really difficult. Most of the time I
-resort to the path of least resistance and some times it can be
-counter-productive. Once I binged watch House of Card until 3 am. With
-a two year old in day care, I only have the time between 9 to 5 to
-tend myself and time flies fast.
+resort to the path of least resistance and sometimes it can be
+counter-productive. Once I binge-watched House of Card until 3 am. With
+a two-year-old in day care, I only have the time between 9 to 5 to
+mend myself and time flies fast.
 
 So after recovering from a severe flu, I realised why don't I sit down
 and create myself a plan to follow when I am sick. Below is my
@@ -27,14 +27,19 @@ later.
 - [ ] Canned sardine / tuna / your favourite fish
 - [ ] Canned beans -> Check salt and sugar content
 - [ ] Masks
+- [ ] Essential oil -- Peppermint or something nice
+- [ ] Epsom Salt
+- [ ] Vitamin C supplement
+- [ ] Zinc supplement or your favourite immune boost
+- [ ] Nice tissue won't sand your nose
 
 ## Day before
 
 I found myself spending a few hours running errand during sick leave
 days. Deciding what to buy while inhaling air full of bacteria and
-viruses in poor ventilated shopping more is not the most productive
-way to rest. If you know you will be sick tomorrow, why not do some
-online shopping the night before so you can:
+viruses in poorly ventilated shopping mall is not the most productive
+way to rest. Knowing you will be sick tomorrow, why not do some
+online shopping the night before. So you can:
 
 1. Have them delivered tomorrow (If you can afford it)
 2. Or have them ready to pick up tomorrow
@@ -43,25 +48,21 @@ online shopping the night before so you can:
 Shopping list (Their use will be apparent later):
 - [ ] Lemon
 - [ ] Ginger
-- [ ] Nashi
-- [ ] Vitamin C supplement
-- [ ] Zinc supplement or your favourite immune boost
-- [ ] Nice Tissue
-- [ ] Orange
+- [ ] Nashi (If coughing)
+- [ ] Fruits
 - [ ] Chicken Drumstick
 - [ ] Chicken carcass
 - [ ] Garlic
 - [ ] Onion
 - [ ] Celery
 - [ ] Wholemeal pasta
-- [ ] Epsom Salt
-- [ ] Essential oil
+- [ ] Missed pantry items above
 
 ## On the day
 
 ### Upon waking up
-- [ ] Ask for leave
-- [ ] Set out of office
+- [ ] Ask for leave from boss
+- [ ] Set out-of-office notice
 
 In case of emergency, people can to contact someone else to handle
 it. Sometime this also spares you from fighting the fire when you
@@ -76,7 +77,7 @@ You would want a healthy mix of fiber, protein, good fat, and good carb
 . If no one can make your healthy breakfast:
  - [ ] Canned bake bean
  - [ ] Canned sardine (Keep at home)
- 
+
 You probably lost part of your sense of smell and taste. Why not use
 this opportunity to eat something healthy but yucky?
 - [ ] Supplements -- Vitamin C and Immune boost stuff
@@ -122,19 +123,22 @@ dehydration. Drink more water to mitigate.
 ## Afternoon
 - [ ] Eat the lunch prepared
 - [ ] Make peppermint or chamomile tea
+- [ ] Take a hot bath with Epsom salt
 - [ ] Go back to bed and listen to stories or Podcast
 - [ ] Wake up and pick up my kid and pretend everything is alright.
 
 ## Do
-* Drink lots of water
+* Drink lots of fluid
   * Soup
   * Tea
 * Sleep early
 
 ## Don't
-  * Go to places with lots of people. get infected with other stuff
-  * Eat sugary
+  * Go to places with lots of people and get infected with other stuff
+  * Eat sugary treats
   * Watch TV
+
+This list can also be useful if your significant other is sick.
 
 I will put this to a test the next time I am sick and review and refine
 it.
