@@ -42,3 +42,16 @@ In the following posts, I will demonstrate with example how I use pen and paper 
 
 
 [id]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two  "Wikipedia: The Magical Number Seven, Plus or Minus Two"
+
+### Feedbacks
+* Number points
+* Thesis -- doing a good hook
+* Smaller post -- experience
+* Bigger pieces -- articulated theory
+* Some heading can be a post itself
+  * How to triple your working memory
+  * How to escape mental loop
+
+### Next step
+* Two more posts
+* Put some picture up 
