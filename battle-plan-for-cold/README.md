@@ -24,9 +24,9 @@ annotated plan:
 Make sure to have these items in stock. Their use will be apparent
 later.
 
-[ ] Canned sardine / tuna / your favourite fish
-[ ] Canned beans -> Check salt and sugar content
-[ ] Masks
+- [ ] Canned sardine / tuna / your favourite fish
+- [ ] Canned beans -> Check salt and sugar content
+- [ ] Masks
 
 ## Day before
 
@@ -41,59 +41,59 @@ online shopping the night before so you can:
 3. Or at least know what to get so you minimise shopping time.
 
 Shopping list (Their use will be apparent later):
-[ ] Lemon
-[ ] Ginger
-[ ] Nashi
-[ ] Vitamin C supplement
-[ ] Zinc supplement or your favourite immune boost
-[ ] Nice Tissue
-[ ] Orange
-[ ] Chicken Drumstick
-[ ] Chicken carcass
-[ ] Garlic
-[ ] Onion
-[ ] Celery
-[ ] Wholemeal pasta
-[ ] Epsom Salt
-[ ] Essential oil
+- [ ] Lemon
+- [ ] Ginger
+- [ ] Nashi
+- [ ] Vitamin C supplement
+- [ ] Zinc supplement or your favourite immune boost
+- [ ] Nice Tissue
+- [ ] Orange
+- [ ] Chicken Drumstick
+- [ ] Chicken carcass
+- [ ] Garlic
+- [ ] Onion
+- [ ] Celery
+- [ ] Wholemeal pasta
+- [ ] Epsom Salt
+- [ ] Essential oil
 
 ## On the day
 
 ### Upon waking up
-[ ] Ask for leave
-[ ] Set out of office
+- [ ] Ask for leave
+- [ ] Set out of office
 In case of emergency, people can to contact someone else to handle
 it. Sometime this also spares you from fighting the fire when you
 are back to work.
-[ ] Turn off work email/IM notifications
+- [ ] Turn off work email/IM notifications
 Don't create unnecessary stress. If you can't act on it, what's the
 use of bad news. The top priority now is to recover.
-[ ] Eat healthy breakfast
+- [ ] Eat healthy breakfast
 You would want a healthy mix of fiber, protein, good fat, and good carb
 . If no one can make your healthy breakfast:
- [ ] Canned bake bean
- [ ] Canned sardine (Keep at home)
+ - [ ] Canned bake bean
+ - [ ] Canned sardine (Keep at home)
 You probably lost part of your sense of smell and taste. Why not use
 this opportunity to eat something healthy but yucky?
-[ ] Supplements -- Vitamin C and Immune boost stuff
+- [ ] Supplements -- Vitamin C and Immune boost stuff
 Get it over with so you don't have to remember. Historically I only
 remember to take them 50% of the time.
-[ ] Gargle with salt water
-[ ] Change bed sheet and pillow cover
+- [ ] Gargle with salt water
+- [ ] Change bed sheet and pillow cover
 Make lying on the bed enticing. Ask nicely if your better half can do
 it if possible. Also this is good signal to self that today is about
 rest.
-[ ] Turn on A cool-mist vaporizer or humidifier
-[ ] Use your essential oil
-[ ] Place a full jar of water and a cup next to your bed
-[ ] Meditate for 10 mins
-[ ] Go back to bed and rest
+- [ ] Turn on A cool-mist vaporizer or humidifier
+- [ ] Use your essential oil
+- [ ] Place a full jar of water and a cup next to your bed
+- [ ] Meditate for 10 mins
+- [ ] Go back to bed and rest
 
 ### Morning
-[ ] Wear your mask and go to Clovelly Beach for an easy walk in
+- [ ] Wear your mask and go to Clovelly Beach for an easy walk in
     sunshine with some salt air
-[ ] Pick up grocery ordered last night on the way home
-[ ] Prepare healthy lunch -- Cook chicken soup
+- [ ] Pick up grocery ordered last night on the way home
+- [ ] Prepare healthy lunch -- Cook chicken soup
 1. Throw in
  * Chicken drumsticks
  * Sliced ginger
@@ -105,18 +105,18 @@ rest.
  * Wholemeal pasta
 2. Bring to boil
 3. Turn heat to min and simmer
-[ ] If I am addicted to caffeine, consume coffee/tea now
+- [ ] If I am addicted to caffeine, consume coffee/tea now
 To avoid withdraw and allow the body to process them before I go to
 bed at night. People to recommend against caffeine because they cause
 dehydration. Drink more water to mitigate.
-[ ] Go back to bed and listen to stories or Podcast
+- [ ] Go back to bed and listen to stories or Podcast
  * Myth and legends
 
 ## Afternoon
-[ ] Eat the lunch prepared
-[ ] Make peppermint or chamomile tea
-[ ] Go back to bed and listen to stories or Podcast
-[ ] Wake up and pick up my kid and pretend everything is alright.
+- [ ] Eat the lunch prepared
+- [ ] Make peppermint or chamomile tea
+- [ ] Go back to bed and listen to stories or Podcast
+- [ ] Wake up and pick up my kid and pretend everything is alright.
 
 ## Do
 * Drink lots of water
