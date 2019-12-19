@@ -42,7 +42,7 @@ day off as a date emerges. Doing something new and different re-invigorated our 
 That day became a memorable day this year. It would not happen if I did not sit down and write those
 three words. It also saved me numerous painful minutes mulling over the same thing again and again.
 
-![New Ways](https://cdn.pixabay.com/photo/2019/09/23/21/10/time-for-a-change-4499734_960_720.jpg**
+![New Ways](https://cdn.pixabay.com/photo/2019/09/23/21/10/time-for-a-change-4499734_960_720.jpg)
 
 ## 4. Creates intention and intention will do magic for you
 
