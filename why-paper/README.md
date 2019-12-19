@@ -73,7 +73,7 @@ the forgotten idea more likely to emerge again.
 We need to stop doing everything in our brain and offload some important thinking to paper. In the
 following posts, I will demonstrate with example how I use pen and paper to enhance my thinking and
 improve my life. Stay tuned.
-
+<!--
 ### Feedbacks
 * Number points
 * Thesis -- doing a good hook
@@ -82,3 +82,4 @@ improve my life. Stay tuned.
 * Some heading can be a post itself
   * How to triple your working memory
   * How to escape mental loop
+-->
