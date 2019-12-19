@@ -18,8 +18,7 @@ allowing us to track three times more things at a time. Anyone could easily trac
 paper than the best of us without. This is definitely a huge competitive advantage. The quality of
 thinking is also improved by covering more ground and coping with more complexity.
 
-![Mind Map Example]
-(https://upload.wikimedia.org/wikipedia/commons/1/1a/Tennis-mindmap.png)
+![Mind Map Example](https://upload.wikimedia.org/wikipedia/commons/1/1a/Tennis-mindmap.png)
 
 ## 2. Regains control from mental loops
 
@@ -29,8 +28,7 @@ and ruminates while our body just go through the motions. This is especially bad
 tracking 7 ± 2 things, our brain can only track **one**. By just writing down my ruminating thought,
 I am freed me from its grasp and regained my composure. The feeling is so magical you must try it.
 
-![Depression Loop]
-(https://cdn.pixabay.com/photo/2016/03/11/19/24/depression-1250897_960_720.jpg)
+![Depression Loop](https://cdn.pixabay.com/photo/2016/03/11/19/24/depression-1250897_960_720.jpg)
 
 ## 3. Opens up new options
 
@@ -44,8 +42,7 @@ day off as a date emerges. Doing something new and different re-invigorated our 
 That day became a memorable day this year. It would not happen if I did not sit down and write those
 three words. It also saved me numerous painful minutes mulling over the same thing again and again.
 
-![New Ways]
-(https://cdn.pixabay.com/photo/2019/09/23/21/10/time-for-a-change-4499734_960_720.jpg**
+![New Ways](https://cdn.pixabay.com/photo/2019/09/23/21/10/time-for-a-change-4499734_960_720.jpg**
 
 ## 4. Creates intention and intention will do magic for you
 
@@ -57,8 +54,7 @@ subconscious mind to find ideas from other seemingly irrelevant parts of our mem
 hard at times if our subconscious mind was thinking about different things (like what to have for
 dinner). Intention turns our greatest enemy into our best helper.
 
-![Intention]
-(http://www.thebluediamondgallery.com/handwriting/images/statement-of-intention.jpg)
+![Intention](http://www.thebluediamondgallery.com/handwriting/images/statement-of-intention.jpg)
 
 ## 5. Remembers it when we cannot
 
@@ -70,8 +66,7 @@ thoughts into long term memory. Having thoughts written down can make or break t
 still evaporate before you are able to pen it. Written words can recreate the mental condition for
 the forgotten idea more likely to emerge again.
 
-![Remember]
-(https://live.staticflickr.com/1918/45102406412_0f5b632e78_b.jpg)
+![Remember](https://live.staticflickr.com/1918/45102406412_0f5b632e78_b.jpg)
 
 ## Conclusion
 
