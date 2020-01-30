@@ -1,4 +1,5 @@
-# Autopiloting in life gets you nowhere? Time to pick up a pen
+# Five reasons to use paper
+## Autopiloting in life gets you nowhere? Time to pick up a pen
 
     When we live on autopilot, it feels like someone else is driving, not us.
         -- Gustavo Razzetti
@@ -6,17 +7,20 @@
 At the end of the year, it is sad to find no progress was made in life. We are stuck with the same
 job, the same relationship, and even the same new year resolution. We have put efforts to change.
 But when life overloads our brain, it reverts back to autopiloting and life just get back to where
-it was. To get back control to our lives, we need to stop doing everything in our brain and offload
-some important thinking to paper. Here is 5 ways paper can help us get out of autopilot.
+it was. To regain control to our lives, it's time to stop the habit of doing all the thinking in our
+brain and start offload some important thinking to paper. Here is 5 ways paper can help us get out
+of autopilot.
 
 ## 1. Prevents overloading by tripling our working memory (if not more)
 
-**We track more things by writing them down.** When our brain cannot keep track of things, it will
-handle familiar things with autopilot. The number of things an average human can hold in short-term
-memory is 7 ± 2. In contrast, most people can easily write down 20+ things on a piece of paper,
-allowing us to track three times more things at a time. Anyone could easily track more objects with
-paper than the best of us without. This is definitely a huge competitive advantage. The quality of
-thinking is also improved by covering more ground and coping with more complexity.
+**We track more things by writing them down.** When the brain is overloaded with too many things to
+track, it will handle familiar tasks with autopilot. A helpful mechanism to relieve stress but
+detrimental if when we want to break out from autopilot. The number of things an average human can
+hold in short-term memory is 7 ± 2. In contrast, most people can easily write down 20+ things on a
+piece of paper, allowing us to track three times more things at a time. Anyone could easily track
+more objects with paper than the best of us without. This is definitely a huge competitive
+advantage. The quality of thinking is also improved by covering more ground and coping with more
+complexity.
 
 ![Mind Map Example](https://upload.wikimedia.org/wikipedia/commons/1/1a/Tennis-mindmap.png)
 
@@ -46,22 +50,24 @@ three words. It also saved me numerous painful minutes mulling over the same thi
 
 ## 4. Creates intention and intention will do magic for you
 
-**Writing keeps us focused.** How many time have we lost our train of thought through tangent of
-tangent of tangent? Writing thing down can keep us focused. Life is full of interrupts outside our
-control (especially true with kids). Written words are easier to come back to then lost thoughts.
-More importantly, writing things down creates 'intention' in our mind. Intention calls upon our
-subconscious mind to find ideas from other seemingly irrelevant parts of our memory. Thinking can be
-hard at times if our subconscious mind was thinking about different things (like what to have for
-dinner). Intention turns our greatest enemy into our best helper.
+**Writing keeps us focused.** How many time have we lost our train of thought? It could be so easy
+to drift from the goals of next year, to what to have for dinner, to the argument with colleague.
+Thoughts are so intangible, it can be lost easily. With enough practice and right technique, writing
+thing down can keep us focused. Life is full of interrupts outside our control (especially true with
+kids). Written words are easier to come back to then lost thoughts. More importantly, writing things
+down creates 'intention' in our mind. Intention calls upon our subconscious mind to find ideas from
+other seemingly irrelevant parts of our memory. Thinking can be hard at times if our subconscious
+mind was thinking about different things (like what to have for dinner). Intention turns our
+greatest enemy into our best helper.
 
 ![Intention](http://www.thebluediamondgallery.com/handwriting/images/statement-of-intention.jpg)
 
 ## 5. Remembers it when we cannot
 
 **We revert back to autopilot because we forget.** How devastating is it to forget the great idea
-you just had (and spend minutes trying to recollect it and failed)? Paradoxically our mind can be
-very creative when we are sleep deprived (or in some other mentally/physically challenging
-conditions) but sleep deprivation (and similar hardships) severely disrupts our ability to commit
+you just had and spend minutes trying to recollect it and failed? Paradoxically our mind can be
+very creative when we are sleep deprived or in some other mentally/physically challenging
+conditions but sleep deprivation and similar hardships severely disrupts our ability to commit
 thoughts into long term memory. Having thoughts written down can make or break the game. Ideas could
 still evaporate before you are able to pen it. Written words can recreate the mental condition for
 the forgotten idea more likely to emerge again.
